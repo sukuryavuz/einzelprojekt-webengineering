@@ -1,0 +1,38 @@
+{
+    "parser": "@babel/eslint-parser",
+    "extends": "airbnb",
+    "rules": {
+      "no-console": "off",   // disable warnings when logging to console
+      "linebreak-style": 0,  // disable LF and CRLF linebreak errors
+      "no-plusplus": "off",   // disable no-plusplus errors
+      "key-spacing": "off",
+      "import/no-extraneous-dependencies": "off",
+      "new-parens": "off",
+      "quotes": "off",
+      "no-multi-spaces": "off",
+      "comma-dangle": "off",
+      "no-undef": "off",
+      "indent": "off",
+      "no-trailing-spaces": "off",
+      "eol-last": "off",
+      "object-shorthand": "off",
+      "global-require": "off",
+      "func-names": "off",
+      "no-alert": "off",
+      "no-use-before-define": "off",
+      "prefer-arrow-callback": "off",
+      "no-unused-vars": "off",
+      "space-before-blocks": "off",
+      "semi": "off",
+      "space-before-function-paren": "off",
+      "prefer-template": "off",
+      "no-unused-expressions": "off",
+      "camelcase": "off",
+      "prefer-const": "off",
+      "no-restricted-syntax": "off",
+      "guard-for-in": "off",
+      "no-restricted-globals": "off",
+      "vars-on-top": "off",
+      "no-var": "off"
+    }
+  }
