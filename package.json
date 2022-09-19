@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/sukuryavuz/einzelprojekt-webengineering#readme",
   "dependencies": {
+    "@popperjs/core": "^2.11.6",
     "axios": "^0.27.2",
     "bootstrap": "^5.2.1",
     "fetch-jsonp": "^1.2.3",
