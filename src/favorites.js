@@ -40,7 +40,7 @@ function countFavourites() {
     let removeAll_btn = document.getElementById("removeAll");
     let info_text = document.getElementById("info_text");
     if (imgs_length === 0) {
-        document.getElementById("image_div").innerHTML = "You have not selected any favourite Images yet."
+        document.getElementById("image_div").innerHTML = "You have not selected any favorite Images yet."
         removeAll_btn.style.display = "none";
         info_text.style.display = "none";
     } else {
